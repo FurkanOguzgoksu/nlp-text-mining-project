@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# nlp-text-mining-project-main
-=======
 ## Turkish Sentiment Analysis - NLP Text Mining Project 🇹🇷🧠
 
 Bu proje, **Türkçe kullanıcı yorumlarının duygu analizi** için hazırlanmış bir metin madenciliği uygulamasıdır. Proje kapsamında veri ön işleme, konu modelleme, anahtar kelime çıkarımı ve BERT tabanlı duygu analizi gerçekleştirilmiştir. Sonuçlar React tabanlı şık bir arayüzde sunulmuştur.
