@@ -83,4 +83,3 @@ Ana sayfa + sonuç ekranı arayüzü:
 - [RAKE Algorithm](https://github.com/aneesha/RAKE)
 
 --- 
->>>>>>> 48c9a09 (Initial commit)
