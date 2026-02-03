@@ -1,4 +1,4 @@
-# 🇹🇷 Turkish Sentiment Analysis - NLP Text Mining Project 🧠
+# Turkish Sentiment Analysis - NLP Text Mining Project 🧠
 
 Bu proje, Türkçe metinler üzerinde kapsamlı Doğal Dil İşleme (NLP) analizleri gerçekleştiren, makine öğrenmesi ve derin öğrenme tekniklerini kullanarak duygu analizi yapan entegre bir sistemdir. Geliştirilen sistem, hem ham veri üzerinde çeşitli metin madenciliği tekniklerini uygular hem de eğitilen modeli modern bir web arayüzü üzerinden son kullanıcıya sunar.
 
@@ -52,7 +52,7 @@ nlp-text-mining-project/
 │   ├── 5_transformer_sentiment.py    # BERT modeli ile ileri seviye duygu analizi ve
 │   |                                 # modelin performans değerlendirmesini yapar.
 │   └── download_dataset.py           # Hugging Face üzerinden gerekli veri setini otomatik
-|                                      # olarak indiren yardımcı araç.
+|                                     # olarak indiren yardımcı araç.
 |
 ├── project-detail.jpeg               # Proje mimarisi veya akışını gösteren detaylı görsel.
 └── requirements.txt                  # Projenin çalışması için gerekli tüm Python kütüphaneleri
