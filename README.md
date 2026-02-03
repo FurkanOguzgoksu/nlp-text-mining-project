@@ -24,6 +24,7 @@ Proje, veri bilimciler ve geliştiriciler için uçtan uca bir NLP pipeline'ı (
 
 ## 📂 Detaylı Proje Yapısı
 
+```
 nlp-text-mining-project/
 ├── app/                              # Flask Backend Servisi
 │   └── app.py                        # Uygulamanın giriş noktası. BERT modelini yükler ve 
@@ -51,11 +52,12 @@ nlp-text-mining-project/
 │   ├── 5_transformer_sentiment.py    # BERT modeli ile ileri seviye duygu analizi ve
 │   |                                 # modelin performans değerlendirmesini yapar.
 │   └── download_dataset.py           # Hugging Face üzerinden gerekli veri setini otomatik
-│                                     # olarak indiren yardımcı araç.
-│
+                                      # olarak indiren yardımcı araç.
+
 ├── project-detail.jpeg               # Proje mimarisi veya akışını gösteren detaylı görsel.
 └── requirements.txt                  # Projenin çalışması için gerekli tüm Python kütüphaneleri
                                       # (Flask, Torch, Transformers, Pandas, NLTK vb.).
+```
 
 ---
 
